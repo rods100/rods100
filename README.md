@@ -1,9 +1,10 @@
 ## "Hello World!"  Hi Guys 👋
 
+Prazer, Eu sou o Rodrigo e estou começando na área de dados e Programação !!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ele/dele
+- 🔭 Trabalho com manutenção elétrica/eletrônica e no momento estou fazendo um estágio na área de DADOS!
+- 🌱 Estou estudando JavaSCript, comecei a ver python e decidi parar e dar uma acelerada em JS.
+
 
 
 <div align="center">
@@ -19,7 +20,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-##
+  ##
   
   <div> 
   <a href = "mailto:rodrigosn100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
