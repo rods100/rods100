@@ -10,11 +10,6 @@ Prazer, Eu sou o Rodrigo e estou trabalhando na área de dados e Programação !
 
 ##
 
-<div >
-  <a href="https://github.com/rods100">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rods100&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rods100&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
   
   <div style="display: inline_block"><br>
