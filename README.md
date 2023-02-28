@@ -1,9 +1,10 @@
-## "Hello World!"  Hi Guys 👋
+##  Hi Guys 
 
-Prazer, Eu sou o Rodrigo e estou começando na área de dados e Programação !!!
+Prazer, Eu sou o Rodrigo e estou trabalhando na área de dados e Programação !!!
 
-- 🔭 Trabalho com manutenção elétrica/eletrônica e no momento estou fazendo um estágio na área de DADOS!
-- 🌱 Estou estudando JavaSCript, comecei a ver python e decidi parar e dar uma acelerada em JS.
+- 🔭 Possuo uma bagagem de conhecimento na área de  manutenção elétrica/eletrônica com formação em Engenharia Elétrica.
+- 🔭 Atualmente desenvolvo atividades nas áreas de analise de dados, implantação de sistemas e automações eletrônicas.
+- 🌱 Possuo conhecimentos basicos/intermediarios em JavaScript e Python. 
 
 
 
